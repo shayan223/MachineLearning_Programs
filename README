@@ -6,3 +6,6 @@ within the DataSets folder.
 The data set zip files should be labled with the names of their coresponding programs,
 to use them, you should simply be able to drag the dataset into the corresponding
 project folder and run the script.
+
+ALL NON-MNIST DATASETS PROVIDED BY UCI MACHINE LEARNING REPOSITORY
+(can visit here http://archive.ics.uci.edu/ml/index.php)
