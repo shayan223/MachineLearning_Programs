@@ -1,4 +1,8 @@
 This Repo is filled with work regarding different machine learning algorithm implementations.
 
 Most of these were tested on the MNIST data set which should be available seperately in this repo
-within the DataSets folder
+within the DataSets folder.
+
+The data set zip files should be labled with the names of their coresponding programs,
+to use them, you should simply be able to drag the dataset into the corresponding
+project folder and run the script.
